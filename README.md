@@ -1,4 +1,4 @@
-## This is a project for SUSTech Design School DS312 Game Design Spring 2023
+## This is a project for SUSTech Design School DS312 Game Design Spring 23
 
 * Just a student project
 * Nothing serious
